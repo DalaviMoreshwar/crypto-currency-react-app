@@ -133,7 +133,17 @@ const Coin = () => {
           </div>
         </div>
       ) : (
-        <span style={{ margin: "50% auto" }}>Loading...</span>
+        <span
+          style={{
+            position: "absolute",
+            top: "50%",
+            left: "50%",
+            right: "0",
+            marginTop: "-15px",
+          }}
+        >
+          Loading...
+        </span>
       )}
     </div>
   );
