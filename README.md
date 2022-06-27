@@ -20,4 +20,4 @@ Following is a URL of the demo of the application:<br>
 
 [crypto-currency-react-app](https://crypto-currency-react-app.vercel.app/)
 
-[![Let's connect on Twitter](https://seeklogo.com/images/T/twitter-2012-negative-logo-5C6C1F1521-seeklogo.com.png)](https://twitter.com/fit_enthusiast_)
+[![Let's connect on Twitter](https://cdn.hashnode.com/res/hashnode/image/upload/v1656339093377/odZCtvDAP.png align="left")](https://twitter.com/fit_enthusiast_)
